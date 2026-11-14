@@ -1,0 +1,18 @@
+# Secrets — never commit your Tein key
+.env
+.env.*
+!.env.example
+
+# Generated videos and per-run folders
+projects/*
+!projects/.gitkeep
+
+# Your own music tracks (keep licenses in mind before sharing)
+assets/audio/*
+!assets/audio/.gitkeep
+!assets/audio/README.md
+
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store

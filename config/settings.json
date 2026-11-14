@@ -1,0 +1,27 @@
+{
+  "model": "Seedance 2.5 LITE",
+  "quality_model": "Seedance 2.5",
+  "price_per_second": {
+    "Seedance 2.5 LITE": 0.0719,
+    "Seedance 2.5": 0.1279
+  },
+  "aspect": "9:16",
+  "clip_seconds": 5,
+  "clips": 4,
+  "crossfade_seconds": 0.6,
+  "music": false,
+  "music_volume": 0.18,
+  "clip_audio_volume": 1.0,
+  "output_sizes": {
+    "9:16": [720, 1280],
+    "16:9": [1280, 720],
+    "1:1": [1080, 1080]
+  },
+  "style_rules": [
+    "hands only, no faces, no people beyond hands and forearms",
+    "slow, calm, satisfying motion",
+    "no text, captions, logos or watermarks on screen",
+    "photorealistic, natural skin and materials",
+    "steady camera, no fast cuts or shaky movement"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "puzzle": {
+    "label": "Puzzle making",
+    "subject": "a jigsaw puzzle being assembled on a light oak wooden table",
+    "hands": "a pair of relaxed adult hands with short clean nails, no rings, sleeves out of frame",
+    "camera": "locked-off overhead top-down shot, occasional slow macro push-in on the piece being placed",
+    "lighting": "soft diffused morning window light, gentle shadows, warm neutral tones",
+    "palette": "muted pastels, cream, sage green, dusty blue",
+    "motion": "slow deliberate movements, one piece at a time, each piece slides and clicks into place",
+    "sound_cues": "soft cardboard click as a piece seats, light shuffle of pieces, quiet room tone",
+    "shot_ideas": [
+      "hands sort edge pieces into a neat pile",
+      "a finger slides a piece across the table and rotates it into position",
+      "macro close-up as a piece presses down and clicks into place",
+      "hands sweep loose pieces gently toward the centre",
+      "the final piece is placed and the hands rest beside the finished puzzle"
+    ],
+    "music_mood": "gentle lo-fi piano, very soft"
+  },
+  "squishy": {
+    "label": "Squishy toy",
+    "subject": "a soft pastel squishy toy (slow-rising foam) on a matte surface",
+    "hands": "a pair of relaxed adult hands with short clean nails, no rings, sleeves out of frame",
+    "camera": "close-up macro at a slight high angle, shallow depth of field, steady tripod",
+    "lighting": "soft diffused studio light, creamy bokeh background, no harsh highlights",
+    "palette": "pastel pink, peach, lavender, mint",
+    "motion": "slow squeeze, hold, then release so the foam rises back very slowly",
+    "sound_cues": "soft squish and gentle foam crackle, quiet room tone",
+    "shot_ideas": [
+      "both thumbs press slowly into the centre of the squishy and hold",
+      "fingers release and the foam slowly rises back to shape",
+      "hands roll the squishy gently between palms",
+      "a single fingertip presses a dimple and lets it refill",
+      "macro of the foam texture as it slowly reforms"
+    ],
+    "music_mood": "airy ambient pads, very soft"
+  }
+}
