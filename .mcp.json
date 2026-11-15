@@ -3,9 +3,7 @@
     "tein": {
       "type": "http",
       "url": "https://mcp.tein.ai/mcp",
-      "headers": {
-        "Authorization": "Bearer ${TEIN_API_KEY}"
-      }
+      "headersHelper": "sh scripts/tein_headers.sh"
     }
   }
 }

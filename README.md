@@ -28,7 +28,7 @@ Ask for "quality" to use Seedance 2.5 ($0.1279/s ≈ $2.56). Joining, audio and 
    ```bash
    echo 'export TEIN_API_KEY="your-key-here"' >> ~/.zshrc && source ~/.zshrc
    ```
-3. Open this folder in Claude Code. The `tein` MCP server is configured in `.mcp.json` and picks up the key from your environment.
+3. Open this folder in Claude Code. The `tein` MCP server is configured in `.mcp.json`; `scripts/tein_headers.sh` reads the key from your shell when it connects, so it works even when Claude is opened from the Dock.
 4. Optional: drop royalty-free calm music (`.mp3`, `.m4a`, `.wav`) into `assets/audio/`.
 
 ## Use
